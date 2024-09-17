@@ -1,7 +1,7 @@
 ![Profile Banner](https://github.com/ShivaniNatani/Profile/blob/38a73723c7f0ee360d95696e29b42cf8c78853e2/Github%20profile.jpeg)
 
 
-Hi i'm Shivani👋
+# Hi, I'm Shivani! 👋
 
 About Me:-🌟 🌟 Passionate about MLOps, NLP, and Generative AI  
 🎯 Specializing in building scalable ML solutions for healthcare  
