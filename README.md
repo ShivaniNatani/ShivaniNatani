@@ -5,6 +5,13 @@ About Me:-🌟 🌟 Passionate about MLOps, NLP, and Generative AI
 🚀 I’m currently working on an MLOps architecture for healthcare 🌍
 🔭 Currently experimenting with transformer models and deep learning architectures.
 
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+</picture>
+
+
 
 <**Skills:** 
 ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
