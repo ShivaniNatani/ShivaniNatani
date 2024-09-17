@@ -4,10 +4,10 @@
 # Hi, I'm Shivani! 👋
 
 ## About Me:
+🔭 Currently experimenting with transformer models and deep learning architectures.  
 🌟 🌟 Passionate about MLOps, NLP, and Generative AI  
 🎯 Specializing in building scalable ML solutions for healthcare  
 🚀 I’m currently working on an MLOps architecture for healthcare 🌍
-🔭 Currently experimenting with transformer models and deep learning architectures.
 
 
 
