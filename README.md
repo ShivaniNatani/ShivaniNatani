@@ -31,8 +31,41 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShivaniNatani&theme=radical)
 
 
-## Featured Project: Gen-AI Project
-[![ReadMe Card](https://github.com/ShivaniNatani/Airflow_Build-Amazon_books_ETL_job/tree/main)
+## 🌟 Featured Project: Airflow ETL for Amazon Books 📚
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ShivaniNatani&repo=Airflow_Build-Amazon_books_ETL_job)](https://github.com/ShivaniNatani/Airflow_Build-Amazon_books_ETL_job)
+
+**🚀 Project Overview:**
+This project automates the extraction, transformation, and loading (ETL) of data engineering books from Amazon into a PostgreSQL database using **Apache Airflow**. 
+
+**🛠️ Key Features:**
+- Extracts data from Amazon's public APIs.
+- Uses Apache Airflow for orchestrating ETL workflows.
+- Data is stored in PostgreSQL for easy querying and analysis.
+- Includes detailed logging and error handling.
+
+**📈 Why This Project?**
+With the growing need for efficient data pipelines, this project demonstrates how to leverage modern tools for scalable data engineering solutions. 
+
+👉 **Check it out [here](https://github.com/ShivaniNatani/Airflow_Build-Amazon_books_ETL_job)!**
+
+
+## Screenshots
+
+## Airflow Dashboard
+![Airflow Dashboard](https://github.com/ShivaniNatani/Airflow_Build-Amazon_books_ETL_job/blob/main/image-1.png)
+
+### PostgreSQL Schema
+![PostgreSQL Schema](https://github.com/ShivaniNatani/Airflow_Build-Amazon_books_ETL_job/blob/main/image-2.png)
+
+### Data Pipeline
+![Data Pipeline](https://github.com/ShivaniNatani/Airflow_Build-Amazon_books_ETL_job/blob/main/image.png)
+
+## Project Overview
+This project aims to extract data engineering books from Amazon, transform the data as needed, and load it into a PostgreSQL database using Apache Airflow.
+
+... (rest of your README content)
+
 
 
 
