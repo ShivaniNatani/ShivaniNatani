@@ -32,7 +32,7 @@
 
 
 ## Featured Project: Gen-AI Project
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ShivaniNatani&repo=Gen-Ai-Project&theme=radical)](https://github.com/ShivaniNatani/Gen-Ai-Project)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ShivaniNatani&repo=Gen-Ai-Project&theme=radical)](https://github.com/ShivaniNatani/Gen-Ai-Project](https://github.com/ShivaniNatani/Airflow_Build-Amazon_books_ETL_job/tree/main)
 
 
 
