@@ -12,11 +12,20 @@
 
 
 ## Skills:
-🚀 ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
-🤖 ![MLOps](https://img.shields.io/badge/-MLOps-blue)
-🌍 ![AWS](https://img.shields.io/badge/-AWS-orange?logo=amazonaws&logoColor=white)
-📘 ![NLP](https://img.shields.io/badge/-NLP-red)
-💡 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?logo=tensorflow&logoColor=white)
+🚀 ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)  
+🤖 ![MLOps](https://img.shields.io/badge/-MLOps-blue)  
+🌍 ![AWS](https://img.shields.io/badge/-AWS-orange?logo=amazonaws&logoColor=white)  
+📘 ![NLP](https://img.shields.io/badge/-NLP-red)  
+💡 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?logo=tensorflow&logoColor=white)  
+🎛️ ![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-0270B0?logo=apache-airflow&logoColor=white)  
+🔥 ![PyTorch](https://img.shields.io/badge/-PyTorch-red?logo=pytorch&logoColor=white)  
+🐳 ![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker&logoColor=white)  
+📊 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?logo=postgresql&logoColor=white)  
+⚙️ ![Git](https://img.shields.io/badge/-Git-orange?logo=git&logoColor=white)  
+🔗 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)  
+🔢 ![NumPy](https://img.shields.io/badge/-NumPy-blue?logo=numpy&logoColor=white)  
+📊 ![Pandas](https://img.shields.io/badge/-Pandas-purple?logo=pandas&logoColor=white)  
+
 
 
 ## What I’m Learning:
@@ -91,9 +100,15 @@ This project aims to extract data engineering books from Amazon, transform the d
 **Fun Fact:** : I love learning and exploring new things, and I’m also an adventurous person always looking for new experiences! 🌍✨
 
 
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=ShivaniNatani)
+(![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourrepo)
 
-![Quote]![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
+## 💬 Inspirational Quote
+
+> "The best way to get started is to quit talking and begin doing."  
+> – Walt Disney
+
+
+
 
 
 
